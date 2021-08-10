@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Giovani Farias <riccog.25@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "yarn jest"
+  },
   "devDependencies": {
     "@types/jest": "^27.0.0",
     "@types/node": "^16.4.13",
